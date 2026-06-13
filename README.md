@@ -1,4 +1,8 @@
-I'm **[Anusreya PM](https://www.linkedin.com/in/anusreya-pm-2800213aa/)**, a Certified Ethical Hacker, Bug Hunter, and Security Researcher. With expertise in vulnerability assessment and ethical hacking, I create content on cybersecurity, bug bounties, and hacking tips. My goal is to educate, inspire, and contribute to a safer digital world.
+I'm **[Anusreya PM](https://www.linkedin.com/in/anusreya-pm-2800213aa/)**,Here's your updated bio:
+
+---
+
+A B.Tech CSE (AI/DS) student with a strong foundation in Python and C programming. Passionate about cybersecurity, bug bounties, and ethical hacking, I explore vulnerability assessment and security research as part of my journey to deepen my technical skills. My goal is to learn, share knowledge, and contribute to building a safer digital world.
 
 <a href="https://www.linkedin.com/in/anusreya-pm-2800213aa/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
